@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+
+[workspace.package]
+authors = ["devsheke <abhi@sheke.tech>"]
+description = "Beamer is a flexible bulk mailer built for power users who need efficient email delivery at scale"
+homepage = "https://github.com/Keryx-Labs/beamer"
+repository = "https://github.com/Keryx-Labs/beamer"
+categories = ["bulk-mailer", "command-line"]
+license = "GPL-3.0"
+rust-version = "1.82.1"
