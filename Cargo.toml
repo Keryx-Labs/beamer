@@ -1,5 +1,6 @@
 [workspace]
 resolver = "2"
+members = ["crates/template"]
 
 [workspace.package]
 authors = ["devsheke <abhi@sheke.tech>"]

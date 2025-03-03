@@ -1,0 +1,12 @@
+[package]
+name = "beamer-template"
+version = "0.1.0"
+edition = "2021"
+description = "An extremely minimal templating library"
+homepage = "https://github.com/keryx-labs/beamer/tree/main/crates/template"
+license = "MIT"
+authors.workspace = true
+repository.workspace = true
+rust-version.workspace = true
+
+[dependencies]
